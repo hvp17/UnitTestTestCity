@@ -4,3 +4,9 @@ c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\bin\D
 c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\obj\Debug\Test.exe
 c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\obj\Debug\Test.pdb
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Test\bin\Debug\Test.exe.config
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Test\bin\Debug\Test.exe
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Test\bin\Debug\Test.pdb
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Test\obj\Debug\Test.exe
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Test\obj\Debug\Test.pdb

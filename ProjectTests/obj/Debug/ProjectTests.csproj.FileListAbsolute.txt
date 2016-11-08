@@ -6,3 +6,11 @@ c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTes
 c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\obj\Debug\ProjectTests.csprojResolveAssemblyReference.cache
 c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\obj\Debug\ProjectTests.dll
 c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\obj\Debug\ProjectTests.pdb
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\ProjectTests\bin\Debug\ProjectTests.dll
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\ProjectTests\bin\Debug\ProjectTests.pdb
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\ProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\ProjectTests\bin\Debug\Project.exe
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\ProjectTests\bin\Debug\Project.pdb
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\ProjectTests\obj\Debug\ProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\ProjectTests\obj\Debug\ProjectTests.dll
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\ProjectTests\obj\Debug\ProjectTests.pdb

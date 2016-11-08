@@ -40,8 +40,9 @@ namespace Project.Tests
 
         [TestMethod()]
         public void CountTest()
+
         {
-            Assert.AreEqual(0,list.Count);
+            Assert.AreEqual(2,list.Count);
         }
     }
 }

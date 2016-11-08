@@ -7,3 +7,6 @@ c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Project\ob
 C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Project\bin\Debug\Project.exe.config
 C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Project\obj\Debug\Project.exe
 C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Project\obj\Debug\Project.pdb
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Project\bin\Debug\Project.exe
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Project\bin\Debug\Project.pdb
+C:\Users\Tomas\Documents\GitHub\UnitTestTestCity\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
