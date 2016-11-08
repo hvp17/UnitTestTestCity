@@ -1,0 +1,6 @@
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\bin\Debug\Test.exe.config
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\bin\Debug\Test.exe
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\bin\Debug\Test.pdb
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\obj\Debug\Test.exe
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\Test\obj\Debug\Test.pdb

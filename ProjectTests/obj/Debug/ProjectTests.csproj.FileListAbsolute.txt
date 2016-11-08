@@ -1,0 +1,8 @@
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\bin\Debug\ProjectTests.dll
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\bin\Debug\ProjectTests.pdb
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\bin\Debug\Project.exe
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\bin\Debug\Project.pdb
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\obj\Debug\ProjectTests.csprojResolveAssemblyReference.cache
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\obj\Debug\ProjectTests.dll
+c:\users\tomas\documents\visual studio 2015\Projects\Solution SDM 915\ProjectTests\obj\Debug\ProjectTests.pdb
